@@ -35,4 +35,8 @@ The CAD models are designed for M3 screws, with space for threaded inserts. Fema
 | Misc hardware | 1 | Aliexpress | $4.79 | $4.79 | [Aliexpress](https://aliexpress.com) |
 | Estimated total shipping | 1 |  |  | $0.00 |  |
 
-Didn't want to list every AliExpress item individually (probably could have - but the prices fluctuate a lot so would be inaccurate). The AliExpress parts are a set of 608 bearings and some threaded inserts, and a case for the batteries.
+Have included shipping in the vendor prices, as otherwise unclear to which vendor shipping is attributed to.
+
+Aliexpress parts listed here with rough prices as they fluctuate a lot - and are generally cheaper with deals
+- 608zz bearing $2
+- 50pcs M3 threaded inserts kit $3
