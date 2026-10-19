@@ -1,5 +1,7 @@
 ﻿# Curtain-Opener-3D
-This repo will contain all the CAD files for a case to hold a stepper motor and a microcontroller to control the opening of curtains
+This repo will contain all the CAD files for a case to hold a stepper motor a microcontroller and a custom PCB to control the opening of curtains
+
+The PCB can be skipped and parts from it soldered with wires if needed.
 
 PCB repo: [gwoolger/Curtain-Opener-PCB](github.com/gwoolger/Curtain-Opener-PCB)
 
@@ -40,3 +42,7 @@ Have included shipping in the vendor prices, as otherwise unclear to which vendo
 Aliexpress parts listed here with rough prices as they fluctuate a lot - and are generally cheaper with deals
 - 608zz bearing $2
 - 50pcs M3 threaded inserts kit $3
+
+## BOM description
+- bearings to provide shear support for the stepper - it's a pancake, so doesn't have the strongest shaft
+- threaded inserts that I can glue in - as it'll be a resin print, so can't heat up. I think I've already got M3 screws.
