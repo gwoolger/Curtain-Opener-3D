@@ -3,7 +3,7 @@ This repo will contain all the CAD files for a case to hold a stepper motor a mi
 
 The PCB can be skipped and parts from it soldered with wires if needed.
 
-PCB repo: [gwoolger/Curtain-Opener-PCB](github.com/gwoolger/Curtain-Opener-PCB)
+PCB repo: [gwoolger/Curtain-Opener-PCB](Https://github.com/gwoolger/Curtain-Opener-PCB)
 
 This is the style of curtain cord it will work with. Essentially a curtain where it can replace the curtain tensioner.
 
