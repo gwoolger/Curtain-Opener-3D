@@ -1,4 +1,4 @@
-﻿# Curtain-Opener-3D
+# Curtain-Opener-3D
 This repo will contain all the CAD files for a case to hold a stepper motor a microcontroller and a custom PCB to control the opening of curtains
 
 The PCB can be skipped and parts from it soldered with wires if needed.
@@ -31,18 +31,15 @@ The CAD models are designed for M3 screws, with space for threaded inserts. Fema
 
 
 ## BOM
-| Item | Qty | Supplier | Cost/item | Total Cost | link |
-|---|---|---|---|---|---|
-| 3D prints | 1 | JLC3DP | $23.11 | $23.11 | [JLC3DP](https://jlc3dp.com) |
-| Misc hardware | 1 | Aliexpress | $4.79 | $4.79 | [Aliexpress](https://aliexpress.com) |
-| Estimated total shipping | 1 |  |  | $0.00 |  |
 
-Have included shipping in the vendor prices, as otherwise unclear to which vendor shipping is attributed to.
-
-Aliexpress parts listed here with rough prices as they fluctuate a lot - and are generally cheaper with deals
-- 608zz bearing $2
-- 50pcs M3 threaded inserts kit $3
-
-## BOM description
-- bearings to provide shear support for the stepper - it's a pancake, so doesn't have the strongest shaft
-- threaded inserts that I can glue in - as it'll be a resin print, so can't heat up. I think I've already got M3 screws.
+| Part | Price | Link |
+| :--- | :--- | :--- |
+| 3D prints | $33.11 | JLC3DP |
+| discount1 | -$20.00 | JLC3DP |
+| | | |
+| Long M3 Screws | $1.84 | [Aliexpress](https://aliexpress.com) |
+| Threaded Insert and Screws Kit | $9.88 | [Aliexpress](https://aliexpress.com) |
+| 608 Ball Bearings | $1.99 | [Aliexpress](https://aliexpress.com) |
+| M3 Nuts | $1.05 | [Aliexpress](https://aliexpress.com) |
+| | | |
+| **Total** | **$27.87** | |

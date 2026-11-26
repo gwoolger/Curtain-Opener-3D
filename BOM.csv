@@ -1,4 +1,10 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-3D prints,1,JLC3DP,$23.11,$23.11,https://jlc3dp.com
-Misc hardware,1,Aliexpress,$4.79,$4.79,https://aliexpress.com
-Estimated total shipping,1,,,$0.00,
+Item, description, Supplier, Cost, link
+3D prints, for holding things together, JLC3DP, 33.11, https://jlc3dp.com
+discount1, -$20 for 3d printing orders over $21, JLC3DP, -20, https://jlc3dp.com
+,,,,
+Long M3 Screws, screwing case together, Aliexpress, 1.84, https://www.aliexpress.com/item/1005008138265980.html
+Threaded Insert and Screws Kit, to let the case screw together, Aliexpress, 9.88, https://www.aliexpress.com/item/1005005467831636.html
+608 Ball Bearings, shear support for motor, Aliexpress, 1.99, https://www.aliexpress.com/item/1005005963373625.html
+M3 Nuts, to use with the screws, Aliexpress, 1.05, https://www.aliexpress.com/item/1005011858105441.html
+
+Estimated total shipping, just included in each order, , 0,
